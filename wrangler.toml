@@ -1,6 +1,6 @@
 name = "assets-digipanel-worker"
 type = "javascript"
-account_id = "ID_CLOUDFLARE_KAMU"
+account_id = "8ae7c248a095117093ca3091bfaaf8f3"
 workers_dev = true
 main = "worker.js"
 compatibility_date = "2024-04-27"
